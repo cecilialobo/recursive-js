@@ -1,0 +1,11 @@
+{
+  "name": "recursive",
+  "version": "1.0.0",
+  "description": "Learning about recursive functions",
+  "main": "exercise1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cecilia",
+  "license": "ISC"
+}
